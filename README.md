@@ -9,7 +9,7 @@ An Unreal Engine asset to fix the most common FPS problems in an easy way 🔫
 
 ***Note:*** _A good understanding of Blueprint Components, Materials & Material Functions will be useful if you want to modify content._
 
-***[Video Preview](https://www.youtube.com/watch?v=B9kg524mwxU) / / [Documentation](https://gerlogu.com/wp-content/uploads/2022/05/Weapon-FOV-and-Clipping-FIX-Users-Manual.pdf) / [Official Website](https://gerlogu.com) / [GitHub Profile](https://github.com/gerlogu)***
+***[Video Preview](https://www.youtube.com/watch?v=B9kg524mwxU) / [Documentation](https://gerlogu.com/wp-content/uploads/2022/05/Weapon-FOV-and-Clipping-FIX-Users-Manual.pdf) / [Official Website](https://gerlogu.com) / [GitHub Profile](https://github.com/gerlogu)***
 
 
 ### 📚 Overview
