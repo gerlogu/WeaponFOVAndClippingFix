@@ -2,7 +2,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)</br>
 An Unreal Engine asset to fix the most common FPS problems in an easy way 🔫
 
-![Image-2](https://user-images.githubusercontent.com/55363746/180665719-7ceb8557-eb2e-498c-9517-4016d8c605bb.jpg)
+![Main](https://user-images.githubusercontent.com/55363746/180665889-49b44439-aa8f-478d-be76-52815478b943.jpg)
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
