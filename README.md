@@ -40,7 +40,7 @@ This asset also includes the following content, useful for any First Person Game
 If you have any questions, contact me and I will answer you and include your question into the User's Manual.
 
 - **OFFICIAL WEBSITE:** www.gerlogu.com
-- **CONTACT EMAIL: **contact@gerlogu.com
+- **CONTACT EMAIL:** contact@gerlogu.com
 
 ### ⚠ Disclaimer
 
