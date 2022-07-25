@@ -1,5 +1,5 @@
 # Weapon FOV & Clipping Fix
-[![Version](https://img.shields.io/badge/Version-1.0.1-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/WeaponFOVAndClippingFix/releases/tag/v1.0.1)</br>
+![Version](https://img.shields.io/badge/Version-1.0.1-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)</br>
 An Unreal Engine asset to fix the most common FPS problems in an easy way 🔫
 
 ![Main](https://user-images.githubusercontent.com/55363746/180665889-49b44439-aa8f-478d-be76-52815478b943.jpg)
