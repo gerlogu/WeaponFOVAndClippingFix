@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.2-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/WeaponFOVAndClippingFix/releases/tag/v1.0.2)</br>
 An Unreal Engine asset to fix the most common FPS problems in an easy way 🔫
 
-[![Main](https://user-images.githubusercontent.com/55363746/180665889-49b44439-aa8f-478d-be76-52815478b943.jpg)](https://www.youtube.com/watch?v=B9kg524mwxU)
+[![Main](https://user-images.githubusercontent.com/55363746/223795781-574920b9-9f72-4d7b-8790-80e4d4206a5d.png)](https://www.youtube.com/watch?v=B9kg524mwxU)
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
