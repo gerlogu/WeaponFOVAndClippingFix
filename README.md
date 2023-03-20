@@ -7,7 +7,7 @@ An Unreal Engine asset to fix the most common FPS problems in an easy way 🔫
 
 https://user-images.githubusercontent.com/55363746/225155677-d2e5db50-5fc6-4e0e-9e7a-af6921dbe558.mp4
 
-##### <div align="center">If you find the asset useful, please support it by giving a "★ Star" to the repository, thank you!</div>
+##### <div align="center">If you find this asset useful, please support it by giving a "★ Star" to the repository, thank you!</div>
 
 ## Description
 ***Latest Update:*** _July 24th, 2022_
