@@ -1,4 +1,4 @@
-# Weapon FOV & Clipping Fix
+![image](https://github.com/gerlogu/WeaponFOVAndClippingFix/assets/1442796/f8706c3e-cb4c-4daf-8c8b-3bca611a5a38)# Weapon FOV & Clipping Fix
 [![Version](https://img.shields.io/badge/Version-1.0.2-3FB911?style=flat&logo&logoColor=white&labelColor=4d4d4d)](https://github.com/gerlogu/WeaponFOVAndClippingFix/releases/tag/v1.0.2)
 ![Asset Type](https://img.shields.io/badge/Blueprints-0086d9?style=flat)
 ![Asset Type 2](https://img.shields.io/badge/Materials-00d998?style=flat)
@@ -92,6 +92,54 @@ No fire effects nor animations are included.
 **Documentation:** [HERE](https://gerlogu.com/wp-content/uploads/2022/05/Weapon-FOV-and-Clipping-FIX-Users-Manual.pdf)
 
 **Important/Additional Notes:** Contact me and I will answer you and include your question into the User Manual.
+
+## Documentation
+
+### Basic setup
+
+To carry out the inclusion of this fix, you need to follow these steps:
+- Open your arms & weapon parent material.
+- Add the following material function: MF_FOV_Clipping_FIX
+![Image-6](https://user-images.githubusercontent.com/55363746/180665874-135b2475-737e-4a26-abc1-d1fef1944ba2.jpg)
+
+Now everything is set up! Remember that you need an scalar parameter (usually named
+FOV or Field Of View) that will determine the custom weapon FOV. You can update this
+parameter during the game execution.
+
+### Weapon Sway
+This project also includes a weapon sway system that includes the following sway types:
+- Camera movement sway
+- Character movement Sway
+Both systems are located in two independent components located in the following path:
+`Game/WeaponFOVandClippingFix/FOVandClippingFix/Character/Components`
+![image](https://github.com/gerlogu/WeaponFOVAndClippingFix/assets/1442796/0a6c649c-baf5-4f24-aa52-b8611e9f69a7)
+
+Ensure you have your arms and weapon mesh located inside two different scene components.
+![image](https://github.com/gerlogu/WeaponFOVAndClippingFix/assets/1442796/3d574316-6942-4194-a21b-d769aeff9c33)
+
+### Camera Sway
+This component need to be initialized in the actor `Begin Play`.
+
+![image](https://github.com/gerlogu/WeaponFOVAndClippingFix/assets/1442796/fc4e92c0-e267-446f-914c-e5760a9bac18)
+
+Then the effect must be updated in the Tick Event (or in a Timer).
+![image](https://github.com/gerlogu/WeaponFOVAndClippingFix/assets/1442796/1a97382d-000b-4e64-9fb9-a3ae2203edda)
+
+Now you can configure the different component variables.
+![image](https://github.com/gerlogu/WeaponFOVAndClippingFix/assets/1442796/f8951e02-1d25-4cc6-9ca7-c4df2d103e08)
+
+### Movement Sway
+
+This component needs to be initialized in the actor `Begin Play`
+![image](https://github.com/gerlogu/WeaponFOVAndClippingFix/assets/1442796/940f55ce-53bd-478f-a609-b488a892ee04)
+
+Then the effect must be updated in the Tick Event (or in a Timer)
+![image](https://github.com/gerlogu/WeaponFOVAndClippingFix/assets/1442796/f8c87a98-c588-4273-be2d-d2b00cde3544)
+
+Now you can configure the different component variables.
+![image](https://github.com/gerlogu/WeaponFOVAndClippingFix/assets/1442796/b4d1d29b-f8cf-4ab1-9036-4c765edb9032)
+
+With this, your weapon movement sway is configured.
 
 ## Images
 
